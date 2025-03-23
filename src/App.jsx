@@ -1,7 +1,8 @@
 import "./App.css";
+import ExshoesCart from "./ExshoesCart/ExshoesCart";
 
 function App() {
-  return <></>;
+  return <ExshoesCart />;
 }
 
 export default App;
